@@ -7,7 +7,7 @@
 
 ## Step 1 : Setting up the project and dependencies
 - Download a zip file or clone the repository to your local machine.
-- From the root of the folder, change the directory to backend and run npm i to install the backend dependencies.
-- From the rooe of the folder, change the directory to frontend and run npm i to install the frontend dependencies.
+- From the root of the folder, change the directory to backend and run `npm i` to install the backend dependencies.
+- From the rooe of the folder, change the directory to frontend and run `npm i` to install the frontend dependencies.
 
 
