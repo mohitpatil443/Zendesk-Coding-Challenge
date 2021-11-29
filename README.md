@@ -3,5 +3,5 @@
 
 <img src="Tickets Screen.png" width="1000" height="600">
 <img src="Pagination Screen.png" width="1000" height="600">
-<img src="Detailed Ticket Screen.png" width="200" height="400">
+<img src="Detailed Ticket Screen.png" width="1000" height="600">
 
